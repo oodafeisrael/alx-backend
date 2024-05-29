@@ -19,12 +19,12 @@ msgstr ""
 "Generated-By: Babel 2.14.0\n"
 
 #: venv/lib/python3.7/site-packages/click/_termui_impl.py:518
-msgid "{editor}: Editing failed"
-msgstr ""
+msgid "home_title"
+msgstr "Welcome to Holberton"
 
 #: venv/lib/python3.7/site-packages/click/_termui_impl.py:522
-msgid "{editor}: Editing failed: {e}"
-msgstr ""
+msgid "home_header"
+msgstr "Hello world!"
 
 #: venv/lib/python3.7/site-packages/click/core.py:1120
 msgid "Aborted!"
